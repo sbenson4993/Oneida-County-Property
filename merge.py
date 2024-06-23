@@ -26,3 +26,4 @@ merged.to_file(output_path, driver='GPKG', layer='joined_layer')
 
 # Display the first few rows of the merged GeoDataFrame
 print("Merged GeoDataFrame:\n", merged.head())
+
